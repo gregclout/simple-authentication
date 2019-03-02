@@ -611,6 +611,7 @@ class ComposerStaticInit5b9ed16dcc7c527c7c73cc17e581db1b
         'SebastianBergmann\\Timer\\RuntimeException' => __DIR__ . '/..' . '/phpunit/php-timer/src/RuntimeException.php',
         'SebastianBergmann\\Timer\\Timer' => __DIR__ . '/..' . '/phpunit/php-timer/src/Timer.php',
         'SebastianBergmann\\Version' => __DIR__ . '/..' . '/sebastian/version/src/Version.php',
+        'SimpleAuthenticate\\AuthenticationFailedHandler' => __DIR__ . '/../..' . '/src/AuthenticationFailedHandler.php',
         'SimpleAuthenticate\\Authenticator' => __DIR__ . '/../..' . '/src/Authenticator.php',
         'Text_Template' => __DIR__ . '/..' . '/phpunit/php-text-template/src/Template.php',
         'TheSeer\\Tokenizer\\Exception' => __DIR__ . '/..' . '/theseer/tokenizer/src/Exception.php',
